@@ -12,3 +12,11 @@ A simple CLI and API-based tool to transcribe audio/video using OpenAI Whisper (
 - 📦 Clean project structure
 - 🔁 Easy to integrate in any backend
 - ⚙️ Environment variable-based configuration
+
+
+
+# transcription-faster-whisper-2
+
+More faster than openapi whisper and produce result as accurate as it.
+
+---
